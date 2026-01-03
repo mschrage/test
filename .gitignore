@@ -2,3 +2,8 @@
 knock-binary
 knock-cmake/
 knock/
+
+# Test files and generated outputs
+*.acsm
+*.epub
+*.drm
