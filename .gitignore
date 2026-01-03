@@ -1,0 +1,4 @@
+# Build artifacts and source repositories
+knock-binary
+knock-cmake/
+knock/
